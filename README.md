@@ -5,7 +5,8 @@
 
 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning in Konkuk Univ. (Seoul, Korea)...
+
 
 
 
