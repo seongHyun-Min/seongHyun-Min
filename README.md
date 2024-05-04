@@ -1,24 +1,31 @@
-### Hi there 👋
+## 👋 안녕하세요! 함께 일하는 개발자 민승현입니다.
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Min%20SeongHyun&fontSize=70)
+**🧠 자신만의 개발철학을 추구합니다.**
 
+**🌱 Spring 기반 웹 백엔드 개발을 좋아합니다.**
 
+**🚀 함께 성장하는 팀 문화, 객체지향 설계에 관심이 많습니다.**
 
+<br>
 
-- 🌱 I’m currently learning in Konkuk Univ. (Seoul, Korea)...
+## **🙋🏻 Contact & Channel**
 
+**✉️ Email : steve6133@naver.com**
 
+**🚀 Github : https://github.com/seongHyun-Min**
 
+**✏️ Blog : [https://blog.naver.com/steve6133](https://blog.naver.com/steve6133)**
 
+<br>
 
+## 📚 Education
+- 건국대학교 컴퓨터공학 부전공
 
-  <div>
-	<h3>📜My certificate</h3>
-	<ul>
-		<li>Engineer Information Processing</li>
-		<li>SQLD(Structured Query Language Developer)</li>
-	</ul>
-</div>
+## 📜 My certificate
+- Engineer Information Processing
+- SQLD(Structured Query Language Developer
+
+<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
