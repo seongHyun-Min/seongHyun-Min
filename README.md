@@ -37,8 +37,7 @@
 </p>
 
 <br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seongHyun-Min&show_icons=true&locale=en&layout=compact" alt="seongHyun-Min" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=seongHyun-Min&show_icons=true&locale=en" alt="seongHyun-Min"/></p>
+
 
   
 
