@@ -21,6 +21,8 @@
 ## 📚 Education
 - 건국대학교 컴퓨터공학 부전공
 
+<br>
+
 ## 📜 My certificate
 - Engineer Information Processing
 - SQLD(Structured Query Language Developer
